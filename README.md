@@ -1,2 +1,2 @@
-# webtests
+# webtest
 Testing website
